@@ -1,0 +1,45 @@
+/* line 1, ../sass/_base.scss */
+body {
+  padding-top: 120px;
+}
+/* line 3, ../sass/_base.scss */
+body h1 {
+  color: #fff;
+}
+/* line 6, ../sass/_base.scss */
+body h2 {
+  color: #000;
+}
+/* line 9, ../sass/_base.scss */
+body span {
+  color: #333;
+  font-size: 20px;
+}
+/* line 12, ../sass/_base.scss */
+body a:link {
+  text-decoration: none;
+}
+
+/**
+* NEW_POSTS.PHP
+____________________________________________ 
+*/
+/* line 21, ../sass/_base.scss */
+.author {
+  font-weight: bold;
+  font-style: italic;
+  font-size: 20px;
+  display: inherit;
+}
+
+/* line 27, ../sass/_base.scss */
+.col-md-8 h1 {
+  color: #000;
+}
+
+/* line 30, ../sass/_base.scss */
+.preview {
+  height: 320px;
+  padding: 20px;
+  border-bottom: 1px solid #eee;
+}
